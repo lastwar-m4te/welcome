@@ -4,7 +4,7 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
 ## 	Grundregeln
 1. Angriffe auf andere **aktive** Spieler und Allianzen, ausserhalb von Events sind nur in Rücksprache mit den **Offizieren** gestattet.
 2. Spieler haben sich min. *X* pro Woche anzumelden und aktiv am Spielgeschehen teilzunehmen. Abwesenheiten von mehr als *y* sind einem der Offiziere zu melden.
-3. Plünderungen von Missionen oder LKWs sind entsprechend der Serverregeln nicht gestattet. 
+3. Plünderungen von Missionen oder LKWs sind auf dem eigenen Server nicht gestattet. 
 4. Zu keinem Zeitpunkt besteht der Zwang Geld für das Spiel auszugeben. 
 5. Regelverstösse werden durch die Offizieren geahndet.
 6. Durchgeführte Einschreibungen zu Events sind verpflichten zur aktiven Teilnahme
@@ -21,3 +21,5 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
  - nicht Kommandant02381204812
  - lateineische Buchstaben
  - Sonderzeichen minimieren
+
+
