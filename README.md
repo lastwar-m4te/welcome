@@ -8,7 +8,7 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
 4. Plünderungen von Missionen oder LKWs sind auf dem eigenen Server nicht gestattet. 
 5. Zu keinem Zeitpunkt besteht der Zwang Geld für das Spiel auszugeben. 
 6. Regelverstösse werden durch die Offizieren geahndet.
-7. Einschreibungen zu Events verpflichten zur aktiven Teilnahme
+7. Einschreibungen zu Events verpflichten zur aktiven Teilnahme.
 
 ## Verhalten in der Allianz
  1.  Auf direkte Nachrichten anderer Spieler der Alllianz ist zu reagieren.
