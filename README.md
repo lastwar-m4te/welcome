@@ -2,7 +2,7 @@
 Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert. Bei Verständnisfragen wendet euch jederzeit an die Offiziere im Spiel oder mittels Pull-Request hier.
 
 ## 	Grundregeln
-1. Beleidigungen, Anfeindungen sowie unterschwellige Drohungen wischen Spielern wird nicht geduldet. Wir achten auf einen höflichen, respektvollen Umgang.
+1. Beleidigungen, Anfeindungen sowie unterschwellige Drohungen zwischen Spielern wird nicht geduldet. Wir achten auf einen höflichen, respektvollen Umgang.
 2. Angriffe auf andere **aktive** Spieler und Allianzen, ausserhalb von Events sind nur in Rücksprache mit den **Offizieren** gestattet.
 3. Spieler haben sich min. 3 pro Woche anzumelden und aktiv am Spielgeschehen teilzunehmen. Abwesenheiten von mehr als 3 Tage sind einem der Offiziere zu melden.
 4. Plünderungen von Missionen oder LKWs sind auf dem eigenen Server nicht gestattet. 
