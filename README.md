@@ -24,4 +24,4 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
  - lateineische Buchstaben
  - Sonderzeichen minimieren
 
-
+ 6.  der Platz an der Wache ist für R4 Reserviert.
