@@ -24,4 +24,6 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
  - lateineische Buchstaben
  - Sonderzeichen minimieren
 
- 6.  der Platz an der Wache ist für R4 Reserviert.
+ 6.  Teilnahme an Allianz Events erwünscht, genau so wie Allianz Spenden. Keine Bagger oder Versammlungen während Allianz Events.
+
+ 7.  der Platz an der Wache ist für R4 Reserviert.
