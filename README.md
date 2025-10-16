@@ -24,6 +24,8 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
  - lateineische Buchstaben
  - Sonderzeichen minimieren
 
- 6.  Teilnahme an Allianz Events erwünscht, genau so wie Allianz Spenden. Keine Bagger oder Versammlungen während Allianz Events.
+ 6.  Die Teilnahme an Allianz-Events ist erwünscht. Gleiches gilt für Allianz Spenden.
+    
+ 7.  Während laufender Allianz Events sind keine Bagger oder Versammlungen zu starten.
 
- 7.  der Platz an der Wache ist für R4 Reserviert.
+ 8.  Der Platz an der Wache ist für R4 Reserviert.
