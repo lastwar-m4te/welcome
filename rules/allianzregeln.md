@@ -1,0 +1,1 @@
+Deutsche Fassung der Allianzregeln
