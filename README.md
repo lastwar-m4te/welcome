@@ -28,4 +28,4 @@ Zum besseren Verständnis sind die Regeln in verschiedene Kategorien gegliedert.
     
  7.  Während laufender Allianz Events sind keine Bagger oder Versammlungen zu starten.
 
- 8.  Der Platz an der Wache ist für R4 Reserviert.
+ 8.  Der [Platz](./rules/alliance_center.png?raw=true "Optional Title") an der Wache ist für R4 Reserviert.
